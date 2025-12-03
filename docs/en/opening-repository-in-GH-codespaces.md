@@ -1,6 +1,6 @@
 # Opening the Repository in GitHub Codespaces
 
-1. Visit the repository: [Real World Code Migration with GitHub Copilot Agent Mode|](https://github.com/microsoft/aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode){:target="_blank"}
+1. Visit the repository: [Real World Code Migration with GitHub Copilot Agent Mode|](https://github.com/carlotta94c/aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode){:target="_blank"}
 2. Log into your GitHub account.
 3. Click the **Star** button in the top right corner, this will help you easily find it later.
 4. Click on the **<> Code** button, followed by the *Codespaces* tab, then the **+** button to create a new Codespace.
